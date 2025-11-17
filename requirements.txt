@@ -1,0 +1,12 @@
+pdfminer.six
+pdfplumber
+docx2txt
+python-docx
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+sentence-transformers
+tqdm
+joblib
